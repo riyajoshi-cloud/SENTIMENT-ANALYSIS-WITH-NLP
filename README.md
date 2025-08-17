@@ -26,7 +26,7 @@ The evaluation was done using metrics like accuracy score, precision, recall, F1
 
 For this project, I used Jupyter Notebook as my development platform. Jupyter Notebook is particularly suitable for machine learning projects because it allows running the code step by step while displaying the output instantly. I also documented my process alongside the code, making the notebook both executable and readable.
 
-The libraries I used included pandas and numpy for data handling, scikit-learn for machine learning algorithms, nltk (Natural Language Toolkit) for text preprocessing, and matplotlib for visualizing evaluation results. The integration of these libraries in Python made the entire workflow smooth anD efficient.
+The libraries I used included pandas and numpy for data handling, scikit-learn for machine learning algorithms, nltk (Natural Language Toolkit) for text preprocessing, and matplotlib for visualizing evaluation results. The integration of these libraries in Python made the entire workflow smooth and efficient.
 
 Applicability of the Task
 
