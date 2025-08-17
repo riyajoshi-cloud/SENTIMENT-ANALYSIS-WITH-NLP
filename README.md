@@ -47,3 +47,6 @@ In conclusion, this project on Sentiment Analysis with NLP helped me develop bot
 Using Jupyter Notebook as the editor made the process interactive and easy to manage, while Python’s NLP and ML libraries provided all the necessary tools.
 
 Most importantly, I realized how valuable sentiment analysis is in real-world scenarios, especially for businesses that rely on customer feedback. This task not only improved my technical skills but also gave me a deeper understanding of how machine learning can be applied to everyday problems.
+
+##OUTPUT
+<img width="1170" height="374" alt="Image" src="https://github.com/user-attachments/assets/bb602451-2e8d-4e61-aa9a-4565491498be" />
