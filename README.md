@@ -15,17 +15,17 @@ For this project, I used Jupyter Notebook as my development platform. Jupyter No
 
 The libraries I used included pandas and numpy for data handling, scikit-learn for machine learning algorithms, nltk (Natural Language Toolkit) for text preprocessing, and matplotlib for visualizing evaluation results. The integration of these libraries in Python made the entire workflow smooth and efficient.
 
-Applicability of the Task
+Applicability of the Task : 
 
-Sentiment Analysis is one of the most practical applications of NLP and is widely used across industries. Some common applications include:
+1.Sentiment Analysis is one of the most practical applications of NLP and is widely used across industries. Some common applications include:
 
-Business and Marketing – Companies analyze product reviews and customer feedback to improve their services.
+2.Business and Marketing – Companies analyze product reviews and customer feedback to improve their services.
 
-Social Media Monitoring – Organizations use sentiment analysis to track public opinion about brands, political events, or social issues on platforms like Twitter.
+3.Social Media Monitoring – Organizations use sentiment analysis to track public opinion about brands, political events, or social issues on platforms like Twitter.
 
-Customer Support – Automated systems detect customer emotions in support tickets or chats to prioritize urgent issues.
+4.Customer Support – Automated systems detect customer emotions in support tickets or chats to prioritize urgent issues.
 
-Entertainment Industry – Movie producers and streaming platforms analyze audience reviews to understand reactions to new releases.
+5.Entertainment Industry – Movie producers and streaming platforms analyze audience reviews to understand reactions to new releases.
 
 The task made me realize the importance of text preprocessing. Without cleaning and transforming the data, the model would not be able to understand human language. This also showed me the challenges of NLP, such as handling sarcasm, slang, or mixed emotions in a review. Still, techniques like TF-IDF combined with machine learning models provide a strong baseline for sentiment classification.
 
