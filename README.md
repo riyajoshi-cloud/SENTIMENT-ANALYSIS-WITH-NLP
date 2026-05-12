@@ -17,15 +17,15 @@ The libraries I used included pandas and numpy for data handling, scikit-learn f
 
 Applicability of the Task : 
 
-1.Sentiment Analysis is one of the most practical applications of NLP and is widely used across industries. Some common applications include:
+1. Sentiment Analysis is one of the most practical applications of NLP and is widely used across industries. Some common applications include:
 
-2.Business and Marketing – Companies analyze product reviews and customer feedback to improve their services.
+2. Business and Marketing – Companies analyze product reviews and customer feedback to improve their services.
 
-3.Social Media Monitoring – Organizations use sentiment analysis to track public opinion about brands, political events, or social issues on platforms like Twitter.
+3. Social Media Monitoring – Organizations use sentiment analysis to track public opinion about brands, political events, or social issues on platforms like Twitter.
 
-4.Customer Support – Automated systems detect customer emotions in support tickets or chats to prioritize urgent issues.
+4. Customer Support – Automated systems detect customer emotions in support tickets or chats to prioritize urgent issues.
 
-5.Entertainment Industry – Movie producers and streaming platforms analyze audience reviews to understand reactions to new releases.
+5. Entertainment Industry – Movie producers and streaming platforms analyze audience reviews to understand reactions to new releases.
 
 The task made me realize the importance of text preprocessing. Without cleaning and transforming the data, the model would not be able to understand human language. This also showed me the challenges of NLP, such as handling sarcasm, slang, or mixed emotions in a review. Still, techniques like TF-IDF combined with machine learning models provide a strong baseline for sentiment classification.
 
@@ -36,5 +36,6 @@ Using Jupyter Notebook as the editor made the process interactive and easy to ma
 Most importantly, I realized how valuable sentiment analysis is in real-world scenarios, especially for businesses that rely on customer feedback. This task not only improved my technical skills but also gave me a deeper understanding of how machine learning can be applied to everyday problems.
 
 ##OUTPUT
+<br>
 <img width="1170" height="374" alt="Image" src="https://github.com/user-attachments/assets/bb602451-2e8d-4e61-aa9a-4565491498be" />
 <img width="1184" height="740" alt="Image" src="https://github.com/user-attachments/assets/b8759d55-91ff-49ae-b08a-a23bc94641c0" />
