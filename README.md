@@ -1,17 +1,4 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: RIYA JOSHI
-
-*INTERN ID*: CT04DZ615
-
-*DOMAIN*: MACHINE LEARNING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ## Description of the Task
 
 The main objective of the task was to analyze a dataset of customer reviews and build a model that could predict the sentiment behind each review. Since the data was in text format, I had to follow a pipeline that involved data preprocessing, feature extraction, model building, and evaluation.
